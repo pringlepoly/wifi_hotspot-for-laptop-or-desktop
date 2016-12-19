@@ -6,3 +6,7 @@ Go to controlpanel->networkandinternet->NetworkandSharingcentre->Changeadapterse
 Check whether new wifi connection is created. Right click on your workign Lan/wifi connection in same window properties->sharing tab
 Check first option, select your new network from dropdown menu,press OK
 To start connection, click start button, to stop connection click stop.
+
+
+If you are finding issues with dll files download,extract and copy files to the path where your application is.
+Also Update you visual c++ 2012 redistributable.
